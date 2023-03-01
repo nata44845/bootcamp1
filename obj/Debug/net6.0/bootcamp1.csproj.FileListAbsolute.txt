@@ -1,0 +1,15 @@
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.csproj.AssemblyReference.cache
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.AssemblyInfoInputs.cache
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.AssemblyInfo.cs
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.csproj.CoreCompileInputs.cache
+E:\Nata\GB-git\bootcamp1\bin\Debug\net6.0\bootcamp1.exe
+E:\Nata\GB-git\bootcamp1\bin\Debug\net6.0\bootcamp1.deps.json
+E:\Nata\GB-git\bootcamp1\bin\Debug\net6.0\bootcamp1.runtimeconfig.json
+E:\Nata\GB-git\bootcamp1\bin\Debug\net6.0\bootcamp1.dll
+E:\Nata\GB-git\bootcamp1\bin\Debug\net6.0\bootcamp1.pdb
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.dll
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\refint\bootcamp1.dll
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.pdb
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\bootcamp1.genruntimeconfig.cache
+E:\Nata\GB-git\bootcamp1\obj\Debug\net6.0\ref\bootcamp1.dll
